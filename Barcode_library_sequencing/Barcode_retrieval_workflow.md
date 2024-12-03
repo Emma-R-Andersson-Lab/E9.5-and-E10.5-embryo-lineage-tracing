@@ -1,5 +1,9 @@
 ## Barcode retrieval and analysis workflow
 
+### Notes on library preparation
+
+The plasmid DNA-seq library was constructed by amplifying barcode region with primers designed to the adjacent plasmid sequences, adding adaptors and indeces necessary for Illumina NextSeq550 platfom sequencing. To circumvent the problems with DNA amplicon sequencing, phased primers were used to construct the library. Read 1 was set to 100 nt, read 2 to 50 nt. Only read 1 was considered for further analysis.
+
 ### Fastq file pre-processing
 
 Sequencing output **plasmid_lib_R1.fastq.gz** was processed with Cutadapt (version 4.0) with Python 3.9.5 to selects reads that contain 30N barcode with 10 nt flanking conserved sequences on each side, reducing thus the length of the read to the most informative region (50N).
