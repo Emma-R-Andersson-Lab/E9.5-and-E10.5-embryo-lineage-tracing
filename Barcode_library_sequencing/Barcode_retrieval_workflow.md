@@ -6,11 +6,11 @@ Sequencing output **plasmid_lib_R1.fastq.gz** was processed with Cutadapt (versi
 
 Cutadapt command line parameters: -g GAGGAAAG...AATGACTT --max-expected-errors=1 --discard-untrimmed --minimum-length=50 --maximum-length=50
 
-The resulting trimmed file **plasmid_lib_50nt.fq.gz** was processed in R with seqTools library with he function *trimFastq* to discard the reads where more than two bases have quality below 15 and thus filter for high-quality reads.
+The resulting trimmed file **plasmid_lib_50nt.fq.gz** was processed in R with **seqTools** library with he function *trimFastq* to discard the reads where more than two bases have quality below 15 and thus filter for high-quality reads. See ```filter_reads.R```. 
 
 ### Barcode extraction 
 
-Barcodes are retrieved from the filtered file with GenBaRcode package i R.
+Barcodes are retrieved from the filtered file with **GenBaRcode** package i R.
 The script ```GenBaRcode_script.R``` also contains preliminary QC plots. 
 The used packages are recorded in the text file ```R_session_info.txt```.
 
@@ -18,7 +18,7 @@ The output file is saved as ```extracted_barcodes_plasmid.csv``` which contains 
 
 ### Barcode analysis
 
-Extracted barcodes were further analyzed using the ```library_quality_control.py```.
+Extracted barcodes were further analyzed using the ```library_quality_control.py``` in Python.
 
 ### Depostited files at Zenodo
 
