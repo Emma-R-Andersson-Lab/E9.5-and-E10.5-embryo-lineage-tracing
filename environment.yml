@@ -1,0 +1,12 @@
+name: he_et_al
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - python
+  - jupyterlab
+  - pandas
+  - matplotlib
+  - seaborn
+  - pip:
+    - -r requirements.txt
