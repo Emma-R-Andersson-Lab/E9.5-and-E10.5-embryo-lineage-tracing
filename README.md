@@ -36,3 +36,17 @@ conda activate he_et_al
 pip install git+https://github.com/frisen-lab/TREX.git --no-deps
 jupyter lab
 ```
+
+## Cite
+
+```
+Author list (2024). Title. Zenodo. https://doi.org/... .
+```
+
+## License
+
+[GNU GPL 3.0](LICENSE)
+
+## Contact
+
+Open an issue in this repository.
