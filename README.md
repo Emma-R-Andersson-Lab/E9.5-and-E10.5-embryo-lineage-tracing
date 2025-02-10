@@ -1,6 +1,6 @@
 # He_et_al_Lineage_tracing
 
-Repository for He et al. manuscript on *in utero* next generation single-cell lineage tracing of ectoderm and mesoderm.
+Repository for He et al. manuscript on *in utero* next generation single-cell lineage tracing used in De Haan & He et al., and He et el.
 
 Contains scripts used to analyse data in the manuscript.
 
