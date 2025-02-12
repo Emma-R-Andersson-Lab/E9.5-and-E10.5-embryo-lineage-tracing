@@ -15,7 +15,7 @@ This repository contains instructions to
 - [Integrate various scRNAseq datasets using SCTransform and adding cloneIDs into Seurat Objects](qc_and_clustering) (including QC and clustering)
 
 - [Analisis and visualization as in Figures in De Haan and He et al.](analysis)
-- [Analisis and visualization as in Figures in He et al.](analysis)
+- [Analisis and visualization as in Figures in He et al.](Analysis_in_He_et_al)
 
 An overview of the workflow can be seen in the figure below.
 
