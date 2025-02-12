@@ -1,13 +1,8 @@
 # Analysis in De Hann & He et al.
 
-## Add cloneIDs to Seurat Objects
+# Pre-analysis of seurat objects can be found in 
 
-You can eithr do something like this:
-## Figure N: Upset Plot
+#Integrate various scRNAseq datasets using SCTransform (including QC and clustering) (....notebook #2)
+# This repository contains instructions to
 
-## Figure N: Clonal Coupling
-
-Or maybe it is easier to say
-## Clonal relation analysis
-
-And explain the order in which files or notebooks should be run.
+Subset the neural and epithelial cells from parental object (All integrated from E9.5 & E10.5 collection in He et al.). Visualization including UMAP plots, (as in Fig1)
