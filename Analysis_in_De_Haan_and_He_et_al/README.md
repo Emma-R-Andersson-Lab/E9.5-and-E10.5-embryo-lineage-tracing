@@ -1,7 +1,7 @@
 # Analysis in De Haan & He et al.
 # Ectoderm barcoding reveals neural and cochlear compartmentalization
 
-# Pre-analysis of seurat objects can be found in Analysis in https://github.com/Emma-R-Andersson-Lab/He_et_al_Lineage_tracing/tree/main/Analysis_in_He_et_al
+# Pre-analysis of seurat objects can be found in https://github.com/Emma-R-Andersson-Lab/He_et_al_Lineage_tracing/tree/main/Analysis_in_He_et_al
 
 
 #All integration object from E9.5 & E10.5 collection is used for this analysis.
