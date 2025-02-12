@@ -1,6 +1,7 @@
 # Analysis in De Haan & He et al.
 
-# Pre-analysis of seurat objects can be found in Analysis in He et al. 
+# Pre-analysis of seurat objects can be found in Analysis in https://github.com/Emma-R-Andersson-Lab/He_et_al_Lineage_tracing/tree/main/Analysis_in_He_et_al
+
 
 #Integrate various scRNAseq datasets using SCTransform (including QC and clustering) (....notebook #2)
 
