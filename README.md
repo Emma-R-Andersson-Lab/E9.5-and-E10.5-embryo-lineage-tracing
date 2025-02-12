@@ -1,7 +1,7 @@
 # Repository for in utero next generation single cell lineage tracing, used in De Haan & He et al, and in He et al
 
 
-Contains scripts used to analyse data in the manuscript.
+Contains scripts used to analyse data in two papers:
 - De Haan & He et al, Ectoderm barcoding reveals neural and cochlear compartmentalization
 - He et al. In utero next-generation single-cell lineage tracing of ectoderm and mesoderm reveals hepatic and cardiac mesenchymal cell lineages
 
