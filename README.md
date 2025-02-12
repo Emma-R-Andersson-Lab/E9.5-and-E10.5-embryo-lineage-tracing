@@ -1,4 +1,4 @@
-# Repository for in utero next generation single cell lineage tracing, used in De Haan & He et al, and in He et al
+# Repository for in utero next generation single cell lineage tracing, used in De Haan & He et al
 
 
 Contains scripts used to analyse data in:
@@ -26,8 +26,8 @@ Download and install conda (preferably from [MINIFORGE](https://github.com/conda
 Then clone this repository and install it.
 
 ```
-git clone git@github.com:Emma-R-Andersson-Lab/He_et_al_Lineage_tracing.git
-cd He_et_al_Lineage_tracing
+git clone git@github.com:Emma-R-Andersson-Lab/E9.5-and-E10.5-embryo-lineage-tracing.git
+cd E9.5-and-E10.5-embryo-lineage-tracing
 conda env create -f environment.yml
 ```
 
@@ -37,7 +37,7 @@ Finally run jupyter lab to open the notebook and run the cells.
 *Note: the `--no-deps` parameter is only needed in Windows.*
 
 ```
-conda activate he_et_al
+conda activate E9.5-and-E10.5-embryo-lineage-tracing
 pip install git+https://github.com/frisen-lab/TREX.git --no-deps
 jupyter lab
 ```
@@ -45,7 +45,7 @@ jupyter lab
 ## Cite
 
 ```
-Author list (2024). Title. Zenodo. https://doi.org/... .
+Sandra de Haan#, Jingyan He#, Agustin A. Corbat, Lenka Belicova, Michael Ratz, Elin Vinsland, Jonas Frisén, Matthew W. Kelley, Emma R. Andersson* (2025). Ectoderm barcoding reveals neural and cochlear compartmentalization
 ```
 
 ## License
