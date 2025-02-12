@@ -11,7 +11,9 @@ This repository contains instructions to
 - [Extract CellIDs from individual Seurat objects needed for CloneID extraction using the Trex algorithm](cloneID_extraction)
 - [Jaccard Threshold and exclusion list parameter analysis](trex_parameter_sweep)
 - [Integrate various scRNAseq datasets using SCTransform and adding cloneIDs into Seurat Objects](qc_and_clustering) (including QC and clustering)
-- [Analisis and visualization as in Figures](analysis)
+
+- [Analisis and visualization as in Figures in De Haan and He et al.](analysis)
+- [Analisis and visualization as in Figures in He et al.](analysis)
 
 An overview of the workflow can be seen in the figure below.
 
