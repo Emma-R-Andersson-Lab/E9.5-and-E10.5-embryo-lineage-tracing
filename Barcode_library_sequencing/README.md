@@ -2,7 +2,7 @@
 
 ### Notes on library preparation
 
-The plasmid DNA-seq library was constructed by amplifying the barcode region with primers designed to the adjacent plasmid sequences, adding adaptors and indeces necessary for Illumina NextSeq550 platfom sequencing. To circumvent the problems with DNA amplicon sequencing, phased primers were used to construct the library. Read 1 was set to 100 nt, read 2 to 50 nt. Only read 1 was considered for further analysis.
+The plasmid DNA-seq library was constructed by amplifying the barcode region with primers designed to the adjacent plasmid sequences, adding adaptors and indeces necessary for Illumina NextSeq550 platfom sequencing. To circumvent the problems with DNA amplicon sequencing, phased primers were used to construct the library. Read 1 was set to 100 nt, read 2 to 50 nt. Only read 1 was considered for further analysis. Further technical details at https://doi.org/10.5281/zenodo.14223944 or in the supplementary methods to the publication. 
 
 ### Fastq file pre-processing
 
