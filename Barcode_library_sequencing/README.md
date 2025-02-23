@@ -2,11 +2,11 @@
 
 In order to flag barcodes that are over-represented in a 30N barcode library and could potentially confound clonal analysis, we amplified and DNA-sequenced the barcode region. 
 
-Note that the library prepartion was done with an alternative protocol and it was sequenced to a greater depth than the sequencing in https://github.com/Emma-R-Andersson-Lab/DeHaan-et-al-Trex_Cochlea/tree/main/Barcode_library_sequencing.
+Note that the library preparation was done with an alternative protocol and it was sequenced to a greater depth than the sequencing from the [viral prep](https://github.com/Emma-R-Andersson-Lab/DeHaan-et-al-Trex_Cochlea/tree/main/Barcode_library_sequencing).
 
 ### Notes on library preparation
 
-The plasmid DNA-seq library was constructed by amplifying the barcode region with primers designed to the adjacent plasmid sequences, adding adaptors and indeces necessary for Illumina NextSeq550 platfom sequencing. To circumvent the problems with DNA amplicon sequencing, phased primers were used to construct the library. Read 1 was set to 100 nt, read 2 to 50 nt. Only read 1 was considered for further analysis. For further technical details see https://doi.org/10.5281/zenodo.14223944 or the supplementary methods to the publication. 
+The plasmid DNA-seq library was constructed by amplifying the barcode region with primers designed to the adjacent plasmid sequences, adding adaptors and indeces necessary for Illumina NextSeq550 platfom sequencing. To circumvent the problems with DNA amplicon sequencing, phased primers were used to construct the library. Read 1 was set to 100 nt, read 2 to 50 nt. Only read 1 was considered for further analysis. For further technical details see [zenodo repository](https://doi.org/10.5281/zenodo.14223944) or the supplementary methods to the publication. 
 
 ## Analysis workflow
 
